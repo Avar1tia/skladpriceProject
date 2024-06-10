@@ -1,0 +1,51 @@
+﻿<Window x:Class="sportik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sportik"
+        mc:Ignorable="d"
+        Title="СкладPrice" MaxHeight="1080" MaxWidth="1920" MinHeight="1040" MinWidth="1920">
+    <Grid ShowGridLines="True" Background="#D3D3D3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" ></RowDefinition>
+            <RowDefinition Height="*" ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Background="#D3D3D3"/>
+        <Image Source="/Res/logo.png" Grid.Row="0" HorizontalAlignment="Center"
+               Height="100" Width="100" Margin="0,-2,0,2" />
+        <TextBlock Text="СКЛАДPRICE" 
+                   Foreground="#7CFC00" FontSize="50" FontWeight="Bold" FontFamily="Impact" 
+                   TextAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" 
+                   Grid.Row="0" Grid.Column="1">
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="5" Color="Black" BlurRadius="3"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="0 30 0 10" VerticalAlignment="Center" 
+                    Width="250" HorizontalAlignment="Center">
+            <Button Width="175" Name="Sklad" Style="{StaticResource CustomButtonStyle}" 
+                    Margin="0 50 0 10" Click="root" Height="100" FontSize="30">Склад</Button>
+            
+            
+            <Button Width="175" Name="Otchet" Style="{StaticResource CustomButtonStyle}" 
+                    Margin="0 50 0 10" Click="Othet" Height="100" FontSize="30">Отчет</Button>
+
+            <Button Width="175" Style="{StaticResource CustomButtonStyle}" 
+                    Margin="0 50 0 10" Click="Calculator" 
+                    Height="100" FontSize="30" >  Калькулятор</Button>
+            <Button Width="175" Style="{StaticResource CustomButtonStyle}" 
+                    Margin="0 50 0 10" Click="Info" 
+                    Height="100" FontSize="30">Инфо</Button>
+            <Button Width="175" Style="{StaticResource CustomButtonStyle}" 
+                    Margin="0 50 0 10" Click="Exit" 
+                    Height="100" FontSize="30">Выход</Button>
+        </StackPanel>
+        <Frame Grid.Row="1" Background="#D3D3D3" Name="MainFrame" Grid.Column="1"></Frame>
+        <TextBlock x:Name="TimerTextBlock" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,460 @@
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.pdb
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\GunsBams.exe.config
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\GunsBams.exe
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\GunsBams.pdb
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\itextsharp.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\zxing.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\itextsharp.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\zxing.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams.g.resources
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams.exe
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\GunsBams.pdb
+C:\Users\Администратор\Desktop\sportik\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+D:\sportik1\Sportik\bin\Debug\GunsBams.exe.config
+D:\sportik1\Sportik\bin\Debug\GunsBams.exe
+D:\sportik1\Sportik\bin\Debug\GunsBams.pdb
+D:\sportik1\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+D:\sportik1\Sportik\bin\Debug\EntityFramework.dll
+D:\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+D:\sportik1\Sportik\bin\Debug\itextsharp.dll
+D:\sportik1\Sportik\bin\Debug\PdfSharp.Charting.dll
+D:\sportik1\Sportik\bin\Debug\PdfSharp.dll
+D:\sportik1\Sportik\bin\Debug\zxing.dll
+D:\sportik1\Sportik\bin\Debug\zxing.presentation.dll
+D:\sportik1\Sportik\bin\Debug\EntityFramework.xml
+D:\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+D:\sportik1\Sportik\bin\Debug\itextsharp.xml
+D:\sportik1\Sportik\bin\Debug\PdfSharp.xml
+D:\sportik1\Sportik\bin\Debug\PdfSharp.Charting.xml
+D:\sportik1\Sportik\bin\Debug\zxing.xml
+D:\sportik1\Sportik\bin\Debug\zxing.presentation.xml
+D:\sportik1\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+D:\sportik1\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\sportik1\Sportik\bin\Debug\de\PdfSharp.resources.dll
+D:\sportik1\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\sportik1\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+D:\sportik1\Sportik\obj\Debug\MainWindow.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\Authorization.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\Calculator.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\EditMerch.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\EditOrders.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\Info.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\Registration.g.cs
+D:\sportik1\Sportik\obj\Debug\Pages\RootMerch.g.cs
+D:\sportik1\Sportik\obj\Debug\App.g.cs
+D:\sportik1\Sportik\obj\Debug\GunsBams_Content.g.cs
+D:\sportik1\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+D:\sportik1\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+D:\sportik1\Sportik\obj\Debug\App.baml
+D:\sportik1\Sportik\obj\Debug\MainWindow.baml
+D:\sportik1\Sportik\obj\Debug\Pages\Authorization.baml
+D:\sportik1\Sportik\obj\Debug\Pages\Calculator.baml
+D:\sportik1\Sportik\obj\Debug\Pages\EditMerch.baml
+D:\sportik1\Sportik\obj\Debug\Pages\EditOrders.baml
+D:\sportik1\Sportik\obj\Debug\Pages\Info.baml
+D:\sportik1\Sportik\obj\Debug\Pages\Registration.baml
+D:\sportik1\Sportik\obj\Debug\Pages\RootMerch.baml
+D:\sportik1\Sportik\obj\Debug\GunsBams.g.resources
+D:\sportik1\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+D:\sportik1\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+D:\sportik1\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+D:\sportik1\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+D:\sportik1\Sportik\obj\Debug\GunsBams.exe
+D:\sportik1\Sportik\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice_Content.g.cs
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice_MarkupCompile.cache
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice_MarkupCompile.lref
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\СкладPrice.exe.config
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice.g.resources
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\skladprice.Properties.Resources.resources
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\sportik1\Sportik\obj\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\СкладPrice.exe.config
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice_Content.g.cs
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice_MarkupCompile.cache
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice_MarkupCompile.lref
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice.g.resources
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\skladprice.Properties.Resources.resources
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\SkladPrice\sportik1\Sportik\obj\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\СкладPrice.exe.config
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice_Content.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice_MarkupCompile.cache
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice_MarkupCompile.lref
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice.g.resources
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\skladprice.Properties.Resources.resources
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice.exe.manifest
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice.application
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice.exe
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\СкладPrice.pdb
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\ReportPage.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Pages\ReportPage.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ClosedXML.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\Irony.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\SixLabors.Fonts.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Buffers.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.IO.Packaging.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Memory.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\XLParser.dll
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ClosedXML.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\SixLabors.Fonts.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Buffers.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.IO.Packaging.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Memory.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Windows\CalculatorWindow.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\Windows\CalculatorWindow.baml
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\skladpriceProject-master\Sportik\obj\Debug\MainWindow.baml

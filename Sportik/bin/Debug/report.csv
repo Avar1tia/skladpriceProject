@@ -1,0 +1,4 @@
+id,photo,name,dexcription,manufacturer,price,discount,count,photoperson,sostav,TextColor,Arrow,newcost
+1,/photo/hudiBeneton.png,Худи Beneton,Цвет:  синий,Италия,3500,0,3,/photo/hudiBeneton1.png,System.Collections.Generic.HashSet`1[SkladPrice.Models.sostav],False,None,
+2,/Photo/hudiTomtailor.png,Худи Tom Tailor,Цвет: чёрный, белый,USA,4000,5,1,/Photo/hudiTomtailor1.png,System.Collections.Generic.HashSet`1[SkladPrice.Models.sostav],True,Strikethrough,3800
+3,/photo/kurtkaFinflare.png,Куртка FINN FLARE,Цвет: тёмно-синий,German,1500,0,3,/Photo/kurtkaFinflare1.png,System.Collections.Generic.HashSet`1[SkladPrice.Models.sostav],False,None,
